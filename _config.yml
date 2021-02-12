@@ -1,6 +1,6 @@
 # title: Architect theme
 # description: Architect is a theme for GitHub Pages.
-google_analytics:
+google_analytics: G-6SL2X23Z48
 theme: jekyll-theme-architect
 
 github:
@@ -18,6 +18,6 @@ nugets:
   RabbitMQ: https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/
 
 sidebar:
-  Home: /
-  How-to: /how-to
-  Samples: /samples.html
+  Home: /OpenSleigh
+  How-to: /OpenSleigh/how-to
+  Samples: /OpenSleigh/samples
