@@ -18,6 +18,6 @@ nugets:
   RabbitMQ: https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/
 
 sidebar:
-  Home: /OpenSleigh
-  How-to: /OpenSleigh/how-to
-  Samples: /OpenSleigh/samples
+  Home: /
+  How-to: /how-to
+  Samples: /samples

@@ -4,10 +4,10 @@ layout: default
 
 # How-to
 
-1. [First step](/OpenSleigh/how-to/first-step.html)
-1. [Configuring Transport and Persistence](/OpenSleigh/how-to/transport-persistence-configuration.html)
-1. [Spinning up the Infrastructure](/OpenSleigh/how-to/creating-infrastructure.html)
-1. [Adding a Saga](/OpenSleigh/how-to/add-saga.html)
-1. [Retry policies](/OpenSleigh/how-to/retry-policies.html)
-1. [Starting a Saga](/OpenSleigh/how-to/starting-saga.html)
-1. [Publishing messages](/OpenSleigh/how-to/publishing-messages.html)
+1. [First step](/how-to/first-step.html)
+1. [Configuring Transport and Persistence](/how-to/transport-persistence-configuration.html)
+1. [Spinning up the Infrastructure](/how-to/creating-infrastructure.html)
+1. [Adding a Saga](/how-to/add-saga.html)
+1. [Retry policies](/how-to/retry-policies.html)
+1. [Starting a Saga](/how-to/starting-saga.html)
+1. [Publishing messages](/how-to/publishing-messages.html)
