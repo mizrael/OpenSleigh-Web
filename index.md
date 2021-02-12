@@ -24,3 +24,6 @@ These are the libraries available at the moment:
 
 ## Roadmap
 - add CosmosDB saga state persistence
+
+## Issues? Questions? Suggestions?
+Feel free to [reach out](https://github.com/mizrael/OpenSleigh/discussions) and tell us what you think!
