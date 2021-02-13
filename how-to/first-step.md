@@ -1,5 +1,6 @@
 ---
 layout: default
+title: First step
 ---
 
 # First step

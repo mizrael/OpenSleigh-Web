@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Retry Policies
 ---
 
 # Retry Policies

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Publishing messages
 ---
 
 # Publishing messages

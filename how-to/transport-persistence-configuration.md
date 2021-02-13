@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Configuring Transport and Persistence
 ---
 
 # Configuring Transport and Persistence

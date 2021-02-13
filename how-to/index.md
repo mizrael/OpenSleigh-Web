@@ -1,5 +1,6 @@
 ---
 layout: default
+title: How-to
 ---
 
 # How-to

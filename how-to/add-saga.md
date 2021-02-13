@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Adding a Saga
 ---
 
 # Adding a Saga

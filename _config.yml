@@ -4,7 +4,15 @@ google_analytics: G-V6KPT320HR
 theme: jekyll-theme-architect
 
 title: OpenSleigh
-description: Yet another Saga management library for .NET Core.
+tagline: Yet another Saga management library for .NET Core.
+description: OpenSleigh - Yet another Saga management library for .NET Core.
+
+twitter:
+  username: DavideGuida82
+  card: summary
+
+author:
+  twitter: DavideGuida82
 
 github:
   repository_url: https://github.com/mizrael/OpenSleigh

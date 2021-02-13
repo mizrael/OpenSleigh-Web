@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Starting a Saga
 ---
 
 # Starting a Saga
