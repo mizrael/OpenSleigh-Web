@@ -14,6 +14,8 @@ It is intended to be reliable, fast, easy to use, configurable and extensible.
 ## What?
 So what is a Saga exactly? The basic idea is quite interesting: in a micro-service architecture, it often happens that we need to manage several long-running operations that span multiple services. 
 
+A good example could be an Order processing workflow: in this scenario you have to orchestrate multiple services, doing inventory management, credit check, handling shipping and so on.   
+
 OpenSleigh helps by taking care of [distributed transactions](https://www.davideguida.com/improving-microservices-reliability-part-1-two-phase-commit/), keeping track of the global status and managing the whole flow.
 
 ## Installation
