@@ -1,5 +1,7 @@
-# title: Architect theme
-# description: Architect is a theme for GitHub Pages.
+url: "https://www.opensleigh.net" 
+plugins:
+  - jekyll-sitemap
+  
 google_analytics: G-V6KPT320HR
 theme: jekyll-theme-architect
 
