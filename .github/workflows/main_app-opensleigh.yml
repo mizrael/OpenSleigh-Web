@@ -14,18 +14,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@master
-
-    - name: Set up .NET Core
-      uses: actions/setup-dotnet@v1
+    - uses: actions/checkout@master         
       with:
-        dotnet-version: '5.0.x'
+        submodules: true
 
-    - name: Build with dotnet
-      run: dotnet build --configuration Release
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1.59.1
+      with:
+        ruby-version: 2.7
 
-    - name: dotnet publish
-      run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Jekyll build
+      run: jekyll build
 
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
@@ -33,4 +35,4 @@ jobs:
         app-name: 'app-opensleigh'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_38c13eb1e33445a998bc921658cbe90b }}
-        package: ${{env.DOTNET_ROOT}}/myapp 
+        package: _site/
