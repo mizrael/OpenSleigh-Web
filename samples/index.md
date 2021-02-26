@@ -18,3 +18,4 @@ Sample projects are available in the [`/samples/` folder](https://github.com/miz
 
 - **[Sample6](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample6)** shows how to use Azure Service Bus as Transport mechanism and how to automatically provision the infrastructure.
 
+- **[Sample7](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sampl7)** shows how to configure *OpenSleigh* to use [compensating transactions](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction?WT.mc_id=DOP-MVP-5003878).
