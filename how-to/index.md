@@ -9,6 +9,7 @@ title: How-to
 1. [Configuring Transport and Persistence](/how-to/transport-persistence-configuration.html)
 1. [Spinning up the Infrastructure](/how-to/creating-infrastructure.html)
 1. [Adding a Saga](/how-to/add-saga.html)
-1. [Retry policies](/how-to/retry-policies.html)
 1. [Starting a Saga](/how-to/starting-saga.html)
+1. [Retry policies](/how-to/retry-policies.html)
+1. [Compensation](/how-to/compensation.html)
 1. [Publishing messages](/how-to/publishing-messages.html)
