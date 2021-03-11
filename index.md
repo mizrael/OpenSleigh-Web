@@ -22,9 +22,11 @@ These are the libraries available at the moment:
 - [MSSQL](https://www.nuget.org/packages/OpenSleigh.Persistence.SQL/)
 - [Azure Service Bus](https://www.nuget.org/packages/OpenSleigh.Transport.AzureServiceBus/)
 - [RabbitMQ](https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/)
+- [CosmosDB](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos/)
 
 ## Roadmap
-- add CosmosDB saga state persistence
+- add support for Kafka
+- add support for Postgres
 
 ## Issues? Questions? Suggestions?
 Feel free to [reach out](https://github.com/mizrael/OpenSleigh/discussions) and tell us what you think!
