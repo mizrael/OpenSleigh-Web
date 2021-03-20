@@ -3,7 +3,7 @@ layout: default
 title: Publishing messages
 ---
 
-# Publishing messages
+# [How-to](/how-to/) / Publishing messages
 A message can be published by calling the `PublishAsync()` method of `IMessageBus`. Sagas classes get an instance injected as Property:
 
 ```

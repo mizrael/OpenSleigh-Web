@@ -3,7 +3,7 @@ layout: default
 title: Compensation
 ---
 
-# Compensation
+# [How-to](/how-to/) / Compensation
 There might be cases when failures in handling messages need to be handled properly. We could always use a try/catch block of course, but OpenSleigh offers a cleaner alternative. 
 
 By adding the interface `ICompensateMessage<TMessage>` to our Saga class, OpenSleigh knows that in case any exception happens when processing a message of type `TMessage`, it has to execute some compensating operation.

@@ -3,7 +3,7 @@ layout: default
 title: Starting a Saga
 ---
 
-# Starting a Saga
+# [How-to](/how-to/) / Starting a Saga
 In order to start a Saga, we need to tell OpenSleigh which message type can be used as "initiator". In order to do that, we need to add  the [`IStartedBy<>`](https://github.com/mizrael/OpenSleigh/blob/develop/src/OpenSleigh.Core/IStartedBy.cs) interface to the Saga and implement it:
 
 ```

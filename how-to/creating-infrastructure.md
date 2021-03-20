@@ -3,7 +3,7 @@ layout: default
 title: Spinning up the Infrastructure
 ---
 
-# Spinning up the Infrastructure
+# [How-to](/how-to/) / Spinning up the Infrastructure
 OpenSleigh can also be used to initialize the infrastructure needed by your services. For example it's possible to automatically create Topics and Subscriptions when using the Azure Service Bus package.
 This can be easily done by calling the `.SetupInfrastructureAsync()` extension method on `IHost`, OpenSleigh will take care of the rest:
 

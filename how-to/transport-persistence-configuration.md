@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Configuring Transport and Persistence
+title: Configure Transport and Persistence
 ---
 
-# Configuring Transport and Persistence
+# [How-to](/how-to/) / Configure Transport and Persistence
 OpenSleigh needs to be configured to point to a specific Transport bus and a Persistence mechanism for the Saga States:
 ```
 Host.CreateDefaultBuilder(args)
