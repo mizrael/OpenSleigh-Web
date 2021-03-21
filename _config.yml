@@ -29,7 +29,9 @@ nugets:
   MSSQL: https://www.nuget.org/packages/OpenSleigh.Persistence.SQL/
   Azure Service Bus: https://www.nuget.org/packages/OpenSleigh.Transport.AzureServiceBus/
   RabbitMQ: https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/
-  CosmosDB: https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos/
+  CosmosDB SQL: https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.SQL/
+  CosmosDB MongoDB: https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.Mongo/
+  
 
 sidebar:
   Home: /

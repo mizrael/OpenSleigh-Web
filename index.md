@@ -24,7 +24,8 @@ These are the packages available at the moment:
 - [MSSQL](https://www.nuget.org/packages/OpenSleigh.Persistence.SQL/)
 - [Azure Service Bus](https://www.nuget.org/packages/OpenSleigh.Transport.AzureServiceBus/)
 - [RabbitMQ](https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/)
-- [CosmosDB](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos/)
+- [CosmosDB with SQL API](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.SQL/)
+- [CosmosDB with MongoDB API](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.Mongo/)
 
 ## Roadmap
 - add support for Kafka
