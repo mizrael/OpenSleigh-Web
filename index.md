@@ -26,9 +26,9 @@ These are the packages available at the moment:
 - [RabbitMQ](https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/)
 - [CosmosDB with SQL API](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.SQL/)
 - [CosmosDB with MongoDB API](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.Mongo/)
+- [Kafka](https://www.nuget.org/packages/OpenSleigh.Transport.Kafka/)
 
 ## Roadmap
-- add support for Kafka
 - add support for Postgres
 
 ## Issues? Questions? Suggestions?

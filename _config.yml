@@ -31,7 +31,7 @@ nugets:
   RabbitMQ: https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/
   CosmosDB SQL: https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.SQL/
   CosmosDB MongoDB: https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.Mongo/
-  
+  Kafka: https://www.nuget.org/packages/OpenSleigh.Transport.Kafka/
 
 sidebar:
   Home: /
