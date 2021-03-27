@@ -4,7 +4,7 @@ title: Publishing messages
 ---
 
 # [How-to](/how-to/) / Publishing messages
-A message can be published by calling the `PublishAsync()` method of `IMessageBus`. Sagas classes get an instance injected as Property:
+A message can be published by calling the `Publish()` method directly on the Saga instance:
 
 ```
 public class MyAwesomeSaga :
@@ -14,10 +14,11 @@ public class MyAwesomeSaga :
     public async Task HandleAsync(IMessageContext<StartMyAwesomeSaga> context, CancellationToken cancellationToken = default)
     {
         var message = new MyAwesomeSagaCompleted(Guid.NewGuid(), context.Message.CorrelationId);
-        this.Bus.PublishAsync(message);
+        this.Publish(message);
     }
 }
 ```
+
 OpenSleigh uses the [Outbox pattern](https://www.davideguida.com/improving-microservices-reliability-part-2-outbox-pattern/) to ensure messages are properly published and the Saga State is persisted.
 
 ## Publish-only applications
