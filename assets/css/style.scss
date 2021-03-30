@@ -16,3 +16,20 @@
 #sidebar p {
     font-size: 16px;
 }
+
+.sponsor{
+    display: inline-block;    
+}
+
+.sponsor .sponsor-logo{
+    display: inline-block;
+    text-align: center;
+    width:120px;
+    height:auto;
+}
+
+.sponsor .sponsor-logo img{
+    display: inline-block;    
+    width:100%;
+    height:auto;
+}
