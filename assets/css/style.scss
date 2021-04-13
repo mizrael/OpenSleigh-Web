@@ -33,3 +33,15 @@
     width:100%;
     height:auto;
 }
+
+#sidebar{
+    .donate-form{
+        text-align: center;
+      form{
+        background: transparent;
+        input[type=image]{
+            width: 100%;
+        }
+      }
+    }
+  }
