@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Synchronous to Asynchronous
+description: How to configure OpenSleigh to transform a synchronous process in an asynchronous one
 ---
 
 # [Use Cases](/use-cases/) / Synchronous to Asynchronous

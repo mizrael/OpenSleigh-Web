@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Workflow Orchestration
+description: How to configure OpenSleigh to handle Workflow Orchestration
 ---
 
 # [Use Cases](/use-cases/) / Workflow Orchestration

@@ -7,7 +7,7 @@ theme: jekyll-theme-architect
 
 title: OpenSleigh
 tagline: Yet another Saga management library for .NET Core.
-description: OpenSleigh - Yet another Saga management library for .NET Core.
+description: A simple yet powerful Saga management, Workflow orchestration, pub/sub library for .NET Core.
 
 twitter:
   username: DavideGuida82

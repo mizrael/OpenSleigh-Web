@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Use Cases
+description: A non-comprehensive list of possible use cases for OpenSleigh. Workflow orchestration, Long-running processes, sync-to-async
 ---
 
 # Use Cases
