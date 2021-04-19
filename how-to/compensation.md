@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Compensation
+description: how to configure Compensating Transactions in a Saga execution
 ---
 
 # [How-to](/how-to/) / Compensation

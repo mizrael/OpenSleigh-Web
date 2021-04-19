@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Retry Policies
+description: reliability and fault tolerance using Retry Policies with OpenSleigh
 ---
 
 # [How-to](/how-to/) / Retry Policies

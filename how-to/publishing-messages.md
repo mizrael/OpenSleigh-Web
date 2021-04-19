@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publishing messages
+description: publishing message on the configured Message Broker, using the Outbox Pattern
 ---
 
 # [How-to](/how-to/) / Publishing messages

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Configure Transport and Persistence
+description: how to configure Transport and Persistence libraries, for example with RabbitMQ and MongoDB
 ---
 
 # [How-to](/how-to/) / Configure Transport and Persistence
