@@ -13,3 +13,4 @@ title: How-to
 1. [Retry policies](/how-to/retry-policies.html)
 1. [Compensation](/how-to/compensation.html)
 1. [Publishing messages](/how-to/publishing-messages.html)
+1. [Logging levels](/how-to/logging-levels.html)
