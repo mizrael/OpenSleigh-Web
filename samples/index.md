@@ -23,3 +23,5 @@ Sample projects are available in the [`/samples/` folder](https://github.com/miz
 - **[Sample 8](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample8)** shows how to send notifications to a Blazor client application from a Saga using SignalR.
 
 - **[Sample 9](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample9)** same as sample 2 and 3, but with Kafka instead of RabbitMQ.
+
+- **[Sample 10](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample10)** same as sample 2, but with PostgreSQL instead of SQL Server.
