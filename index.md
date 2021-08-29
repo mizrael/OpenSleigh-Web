@@ -35,8 +35,5 @@ These are the packages available at the moment:
 - [RabbitMQ](https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/)
 - [Kafka](https://www.nuget.org/packages/OpenSleigh.Transport.Kafka/)
 
-## Roadmap
-- add support for Postgres
-
 ## Issues? Questions? Suggestions?
 Feel free to [reach out](https://github.com/mizrael/OpenSleigh/discussions) and tell us what you think!
