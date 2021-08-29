@@ -22,17 +22,6 @@ github:
   owner_url: https://www.davideguida.com
   owner_name: David Guida
 
-nugets:
-  Core: https://www.nuget.org/packages/OpenSleigh.Core/
-  In-Memory: https://www.nuget.org/packages/OpenSleigh.Persistence.InMemory/
-  MongoDB: https://www.nuget.org/packages/OpenSleigh.Persistence.Mongo/
-  MSSQL: https://www.nuget.org/packages/OpenSleigh.Persistence.SQL/
-  Azure Service Bus: https://www.nuget.org/packages/OpenSleigh.Transport.AzureServiceBus/
-  RabbitMQ: https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/
-  CosmosDB SQL: https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.SQL/
-  CosmosDB MongoDB: https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.Mongo/
-  Kafka: https://www.nuget.org/packages/OpenSleigh.Transport.Kafka/
-
 sidebar:
   Home: /
   How-to: /how-to
