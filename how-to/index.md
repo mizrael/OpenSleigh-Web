@@ -5,6 +5,7 @@ title: How-to
 
 # How-to
 
+1. [Installation](/how-to/installation.html)
 1. [First step](/how-to/first-step.html)
 1. [Configuring Transport and Persistence](/how-to/transport-persistence-configuration.html)
 1. [Spinning up the Infrastructure](/how-to/creating-infrastructure.html)
