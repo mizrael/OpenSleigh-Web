@@ -19,13 +19,20 @@ The Core module is available [on Nuget](https://www.nuget.org/packages/OpenSleig
 However, Transport and Persistence packages are necessary to properly use the library.
 
 These are the packages available at the moment:
-- [InMemory](https://www.nuget.org/packages/OpenSleigh.Persistence.InMemory/)
+## Core
+- [Core library](https://www.nuget.org/packages/OpenSleigh.Core/)
+- [In-Memory](https://www.nuget.org/packages/OpenSleigh.Persistence.InMemory/)
+
+## Persistence
 - [MongoDB](https://www.nuget.org/packages/OpenSleigh.Persistence.Mongo/)
-- [MSSQL](https://www.nuget.org/packages/OpenSleigh.Persistence.SQL/)
-- [Azure Service Bus](https://www.nuget.org/packages/OpenSleigh.Transport.AzureServiceBus/)
-- [RabbitMQ](https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/)
+- [MSSQL](https://www.nuget.org/packages/OpenSleigh.Persistence.SQLServer/)
+- [PostgreSQL](https://www.nuget.org/packages/OpenSleigh.Persistence.PostgreSQL/)
 - [CosmosDB with SQL API](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.SQL/)
 - [CosmosDB with MongoDB API](https://www.nuget.org/packages/OpenSleigh.Persistence.Cosmos.Mongo/)
+
+## Transport
+- [Azure Service Bus](https://www.nuget.org/packages/OpenSleigh.Transport.AzureServiceBus/)
+- [RabbitMQ](https://www.nuget.org/packages/OpenSleigh.Transport.RabbitMQ/)
 - [Kafka](https://www.nuget.org/packages/OpenSleigh.Transport.Kafka/)
 
 ## Roadmap
