@@ -5,10 +5,10 @@ title: Adding a Saga
 
 # [How-to](/how-to/) / Adding a Saga
 
-A Saga is a simple class inheriting from the base [`Saga<>`](https://github.com/mizrael/OpenSleigh/blob/develop/src/OpenSleigh.Core/Saga.cs) class. We also have to create an additional State class holding it's data, by inheriting from [`SagaState`](https://github.com/mizrael/OpenSleigh/blob/develop/src/OpenSleigh.Core/SagaState.cs):
+A Saga is a simple class inheriting from the base [`Saga<>`](https://github.com/mizrael/OpenSleigh/blob/develop/src/OpenSleigh.Core/Saga.cs) class. We also have to create an additional State `record` class holding it's data, by inheriting from [`SagaState`](https://github.com/mizrael/OpenSleigh/blob/develop/src/OpenSleigh.Core/SagaState.cs):
 
 ```
-public class MyAwesomeSagaState : SagaState{
+public record MyAwesomeSagaState : SagaState{
     public MyAwesomeSagaState(Guid id) : base(id){}
 }
 
