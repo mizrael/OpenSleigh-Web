@@ -25,3 +25,5 @@ Sample projects are available in the [`/samples/` folder](https://github.com/miz
 - **[Sample 9](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample9)** same as sample 2 and 3, but with Kafka instead of RabbitMQ.
 
 - **[Sample 10](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample10)** same as sample 2, but with PostgreSQL instead of SQL Server.
+
+- **[Sample 11](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample11)** shows how to use Stateless Message Handlers with Kafka and PostgreSQL.
