@@ -27,3 +27,5 @@ Sample projects are available in the [`/samples/` folder](https://github.com/miz
 - **[Sample 10](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample10)** same as sample 2, but with PostgreSQL instead of SQL Server.
 
 - **[Sample 11](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample11)** shows how to use Stateless Message Handlers with Kafka and PostgreSQL.
+
+- **[Sample 12](https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample12)** shows how to use Stateless Message Handlers with Azure ServiceBus.

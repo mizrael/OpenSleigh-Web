@@ -22,4 +22,4 @@ These handlers are registered with the Transient lifetime on your DI container, 
 
 For example, they can be used to handle a user notification process or a fire-and-forget operation.
 
-For more details, check this <a href='https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample11' target='_blank'>Sample</a>.
+For more details, check <a href='https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample11' target='_blank'>Sample 11</a> for an example with Kafka and <a href='https://github.com/mizrael/OpenSleigh/tree/develop/samples/Sample12' target='_blank'>Sample 12</a> for one with Azure ServiceBus.
